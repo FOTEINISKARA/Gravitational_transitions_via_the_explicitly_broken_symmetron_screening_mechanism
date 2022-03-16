@@ -1,2 +1,2 @@
-# Gravitational_transitions_via_the_explicitly_broken_symmetron_screening_mechanis
+# Gravitational transitions via the explicitly broken symmetron screening mechanism
 This repository contains the Mathematica files of ...
