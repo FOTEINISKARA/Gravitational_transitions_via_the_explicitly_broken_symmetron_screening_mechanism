@@ -1,6 +1,7 @@
 # Gravitational transitions via the explicitly broken symmetron screening mechanism
 
-![image](https://user-images.githubusercontent.com/88026221/158618027-fdd2598a-4471-4e80-9fe2-57de2a7e3c4b.png)
+![image](https://user-images.githubusercontent.com/88026221/158666011-4cd76d52-1eda-4eb3-85c2-741537b98315.png)
+
 
 
 This repository contains the Mathematica files of ...
