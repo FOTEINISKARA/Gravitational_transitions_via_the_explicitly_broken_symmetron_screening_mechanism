@@ -4,7 +4,7 @@
 
 
 
-This repository contains the Mathematica files of ...
+This repository contains the Mathematica files of arXiv:2203.10374
 
 # Abstract
 
@@ -16,7 +16,7 @@ If you use any of the above codes or the figures in a published work please cite
 
 Gravitational transitions via the explicitly broken symmetron screening mechanism
 
-Leandros Perivolaropoulos and Foteini Skara  arXiv: ..
+Leandros Perivolaropoulos and Foteini Skara  arXiv:2203.10374
 
 
 Any further questions/comments are welcome.
